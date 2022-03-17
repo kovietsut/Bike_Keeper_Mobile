@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "156196961698",
+    "firebase_url": "https://bike-keeper-3374e-default-rtdb.firebaseio.com",
+    "project_id": "bike-keeper-3374e",
+    "storage_bucket": "bike-keeper-3374e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156196961698:android:f78926906f8e4d278d46fb",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156196961698-2ttgnee29t3hpeg94gk31f7bihd2g9bn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobile",
+            "certificate_hash": "df1589ae0a83333e4b326ea5be39de4b13cd2604"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe-pFwDrVZZz_diUnptvWAqvG_YfZiUmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156196961698-02eadqj76t9sb5q9dq22k0fc5m825tpq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156196961698-je0uup5t350k1puup0sq5870efncu3j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156196961698:android:0a8a4b11d7a58c708d46fb",
+        "android_client_info": {
+          "package_name": "com.fptu.bikekeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156196961698-pul3opkklb3f13p15qdgt1o36ddc0f06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fptu.bikekeeper",
+            "certificate_hash": "df1589ae0a83333e4b326ea5be39de4b13cd2604"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe-pFwDrVZZz_diUnptvWAqvG_YfZiUmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156196961698-02eadqj76t9sb5q9dq22k0fc5m825tpq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156196961698-je0uup5t350k1puup0sq5870efncu3j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
